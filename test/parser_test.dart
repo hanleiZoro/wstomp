@@ -5,7 +5,7 @@ library parser_test;
 
 import "dart:convert" show utf8;
 import 'package:test/test.dart';
-import 'package:stomp/impl/util.dart';
+import 'package:wstomp/impl/util.dart';
 
 List<Frame> frames;
 List<String> errors;

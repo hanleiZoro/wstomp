@@ -7,7 +7,7 @@ import "dart:html";
 import "dart:async";
 import 'package:test/test.dart';
 
-import 'package:stomp/webSocket.dart' show connect;
+import 'package:wstomp/webSocket.dart' show connect;
 
 part "_echo_test.dart";
 

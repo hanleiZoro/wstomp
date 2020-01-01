@@ -7,7 +7,7 @@ import "dart:async";
 import "dart:io";
 import 'package:test/test.dart';
 
-import 'package:stomp/vm.dart' show connect;
+import 'package:wstomp/vm.dart' show connect;
 
 part "_echo_test.dart";
 
